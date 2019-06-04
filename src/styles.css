@@ -118,7 +118,7 @@ h1 sub {
   display: block;
   font-size: 0.3em;
   letter-spacing: 0;
-  line-height: 0.8em;
+  line-height: 2em;
 }
 
 @-webkit-keyframes logo {
@@ -196,7 +196,7 @@ h1 sub {
   position: absolute;
   width: 18em;
   height: 50em;
-  bottom: 25%;
+  bottom: 40%;
   left: 50%;
   margin-left: -9em;
   font-size: 350%;
